@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "year": 1999,
+      "text": "Saga del East Blue.",
+      "isImportant": true
+    },
+    {
+      "id": 2,
+      "year": 2001,
+      "text": "Saga de Arabasta."
+    },
+    {
+      "id": 3,
+      "year": 2002,
+      "text": "Saga de La Isla del Cielo.",
+      "isImportant": true
+    },
+    {
+      "id": 4,
+      "year": 2004,
+      "text": "Saga de Water 7."
+    },
+    {
+      "id": 5,
+      "year": 2007,
+      "text": "Saga de Thriller Bark.",
+      "isImportant": true
+    },
+    {
+      "id": 6,
+      "year": 2009,
+      "text": "Saga de la Guerra de Marineford."
+    },
+    {
+      "id": 7,
+      "year": 2011,
+      "text": "Saga de la Isla Gyojine.",
+      "isImportant": true
+    },
+    {
+      "id": 8,
+      "year": 2012,
+      "text": "Saga de la Alianza Pirata."
+    },
+    {
+      "id": 9,
+      "year": 2016,
+      "text": "Saga contra los Cuatro Emperadores.",
+      "isImportant": true
+    }
+  ]
+  
